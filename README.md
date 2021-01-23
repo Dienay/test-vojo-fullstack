@@ -10,3 +10,9 @@
 
 
 [Front da aplicação](http://vojo.surge.sh)
+
+<br>
+
+Se a pessoa não estiver logada, ao clicar no titulo do job ela é redirecionada para a tela de login.
+Caso esteja logada a tela apresentará somente o job escolhido, com a opção de o editar.
+
